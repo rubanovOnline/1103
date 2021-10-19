@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9affb484.chunk.css",
+    "main.js": "/static/js/main.f1b1de1f.chunk.js",
+    "main.js.map": "/static/js/main.f1b1de1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f951d28d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f951d28d.js.map",
+    "static/js/2.d0caff20.chunk.js": "/static/js/2.d0caff20.chunk.js",
+    "static/js/2.d0caff20.chunk.js.map": "/static/js/2.d0caff20.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9affb484.chunk.css.map": "/static/css/main.9affb484.chunk.css.map",
+    "static/js/2.d0caff20.chunk.js.LICENSE.txt": "/static/js/2.d0caff20.chunk.js.LICENSE.txt",
+    "static/media/aliexpress.af80da1c.jpg": "/static/media/aliexpress.af80da1c.jpg",
+    "static/media/ArrowTop.css": "/static/media/arrow-top.bbdc4ff7.svg",
+    "static/media/index.css": "/static/media/icon-close.c807bb50.svg",
+    "static/media/Blog.css": "/static/media/lamp.4c4293e8.png",
+    "static/media/books.c6bf69af.jpg": "/static/media/books.c6bf69af.jpg",
+    "static/media/citilink.fd02390c.jpg": "/static/media/citilink.fd02390c.jpg",
+    "static/media/dns.f4498c3a.jpg": "/static/media/dns.f4498c3a.jpg",
+    "static/media/logo.99f9ecb0.svg": "/static/media/logo.99f9ecb0.svg",
+    "static/media/mvideo.e2f1ad0b.jpg": "/static/media/mvideo.e2f1ad0b.jpg",
+    "static/media/ozon.9939fed4.jpg": "/static/media/ozon.9939fed4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f951d28d.js",
+    "static/js/2.d0caff20.chunk.js",
+    "static/css/main.9affb484.chunk.css",
+    "static/js/main.f1b1de1f.chunk.js"
+  ]
+}

@@ -1,0 +1,233 @@
+header {
+	height: 100px;
+	background-color: gray;
+}
+
+main {
+	min-height: calc(100vh - 200px);
+	background-color: lightgreen;
+}
+
+footer {
+	height: 100px;
+	background-color: gray;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+
+.slider {
+	background-color: lightblue;
+}
+
+.carousel-control-prev-icon {
+	background-image: url("../img/btn-prev.svg");
+}
+
+.carousel-control-next-icon {
+	background-image: url("../img/btn-next.svg");
+}
+
+.carousel-indicators {
+	bottom: -10px;
+}
+
+.carousel-indicators button {
+	height: 10px !important;
+	background-color: gold !important;
+}
+
+.carousel-caption {
+	width: 100% !important;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background-color: rgba(65, 65, 65, 0.582) !important;
+}
+
+/* 
+
+html {
+	background-color: white;
+}
+
+body {
+	padding: 20px;
+}
+
+.page-default {
+	box-sizing: border-box;
+	width: 75%;
+	min-height: 100vh;
+	margin: auto;
+
+	background-color: rgb(252, 213, 213);
+}
+
+button {
+	transition: all 0.25s;
+}
+
+:focus {
+	outline-color: rgb(204, 204, 125);
+}
+
+.hidden {
+	display: none;
+}
+
+.error {
+	display: block;
+	margin-top: 15px;
+
+	font-size: 10px;
+	text-transform: uppercase;
+	color: red;
+
+	animation-name: error;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes error {
+
+	0%,
+	100% {
+		transform: scale(1);
+		color: red;
+	}
+
+	50% {
+		transform: scale(1.05);
+		color: darkred;
+	}
+}
+
+.added {
+	margin-top: 20px;
+	padding: 10px;
+	background-color: green;
+	color: white;
+}
+
+.title {
+	text-align: center;
+	margin-top: 0;
+
+	font-family: "Verdana", sans-serif;
+	font-size: 23px;
+	text-transform: uppercase;
+	color: rgb(36, 36, 185);
+}
+
+.form-settings,
+.form-settings * {
+	box-sizing: border-box;
+}
+
+.form-settings {
+	width: 40%;
+	margin: auto;
+	padding: 20px 15px;
+
+	text-align: center;
+	border: 7px groove rgb(209, 209, 155);
+	background-color: lightyellow;
+	border-radius: 15px;
+}
+
+.form-settings fieldset {
+	padding: 15px;
+
+	border-radius: 5px;
+	border: 2px solid rgb(209, 209, 155);
+	background-color: #ffffff;
+}
+
+.form-settings legend {
+	font-family: "Tahoma", sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: rgb(73, 73, 219);
+}
+
+.form-settings fieldset:last-of-type {
+	margin-top: 15px;
+}
+
+.form-settings label {
+	font-family: "Georgia", serif;
+	font-size: 14px;
+	color: rgb(83, 83, 47);
+}
+
+.form-settings .settings-random {
+	margin-top: 15px;
+}
+
+.form-settings [type="number"] {
+	width: 50px;
+	padding: 2px 5px;
+
+	border: 2px solid rgb(238, 238, 174);
+	border-radius: 5px;
+}
+
+.form-settings .user-text {
+	position: relative;
+	margin-top: 10px;
+	padding: 15px;
+
+	width: 80%;
+	min-height: 100px;
+	resize: none;
+}
+
+.form-settings .info-length {
+	display: block;
+	color: blue;
+}
+
+.form-settings .btn {
+	display: inline-block;
+	margin: auto;
+	margin-top: 15px;
+	padding: 10px 15px;
+
+	text-transform: uppercase;
+	font-family: "Tahoma", sans-serif;
+	font-size: 14px;
+
+	color: #ffffff;
+	border: none;
+	border-radius: 5px;
+}
+
+.form-settings .btn-formatted {
+	background-color: rgb(155, 155, 69);
+}
+
+.form-settings .btn-clear {
+	background-color: rgb(172, 119, 23);
+}
+
+.form-settings .btn-formatted:hover {
+	cursor: pointer;
+	background-color: rgb(95, 95, 38);
+}
+
+.form-settings .btn-formatted:active {
+	background-color: rgb(128, 128, 53);
+}
+
+.form-settings .btn-clear:hover {
+	cursor: pointer;
+	background-color: rgb(128, 88, 13);
+}
+
+.form-settings .btn-clear:active {
+	background-color: rgb(172, 118, 17);
+} */
