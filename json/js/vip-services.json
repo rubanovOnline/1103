@@ -1,0 +1,23 @@
+{
+	"1": {
+		"id": 1,
+		"category": "VIP",
+		"name": "VIP 1",
+		"price": 10000,
+		"discont": 0
+	},
+	"2": {
+		"id": 2,
+		"category": "VIP",
+		"name": "VIP 2",
+		"price": 7000,
+		"discont": 0
+	},
+	"3": {
+		"id": 3,
+		"category": "VIP",
+		"name": "VIP 3",
+		"price": 20000,
+		"discont": 0
+	}
+}
